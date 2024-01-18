@@ -1,5 +1,5 @@
 # Integrating PERENDER with Apache
-Updated at: https://doc.perender.com/cdn-integrations/apache
+Updated at: https://doc.perender.com/server-integrations/apache
 
 # Step 1.
 
